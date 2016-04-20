@@ -1,2 +1,2 @@
 # jupyterday-europe
-:shooting_star: Organising jupyter day Europe
+Organisational things for a jupyter day in Europe.
